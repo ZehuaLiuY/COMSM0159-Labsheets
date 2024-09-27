@@ -77,8 +77,7 @@ def act(act_fun):
     '''
         Either string defining an activation function or module (e.g. nn.ReLU)
     '''
-    print(act_fun)
-    print(type(act_fun))
+
     if isinstance(act_fun, str):
         if act_fun == 'LeakyReLU':
             return nn.LeakyReLU(0.2, inplace=True)
