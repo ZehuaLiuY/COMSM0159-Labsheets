@@ -164,5 +164,6 @@ cython_debug/
 
 # Week 3 MNIST
 /Week3-Deep-Unfolding-Neural-Network-main/MNIST
-
 /Week3-Deep-Unfolding-Neural-Network-main/results_admm_mnist
+/Week3-Deep-Unfolding-Neural-Network-main/results_admm_cifar
+/Week3-Deep-Unfolding-Neural-Network-main/cifar-10-batches-py
