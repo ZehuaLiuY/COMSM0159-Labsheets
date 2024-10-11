@@ -167,3 +167,6 @@ cython_debug/
 /Week3-Deep-Unfolding-Neural-Network-main/results_admm_mnist
 /Week3-Deep-Unfolding-Neural-Network-main/results_admm_cifar
 /Week3-Deep-Unfolding-Neural-Network-main/cifar-10-batches-py
+/Week4-GAN-to-denoise-image-main/denoised_images/
+/Week4-GAN-to-denoise-image-main/generated_image/
+/Week4-GAN-to-denoise-image-main/data/
